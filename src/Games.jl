@@ -1,5 +1,8 @@
 module Games
 
+# 0.5 compatibility
+import Compat.view
+
 # package code goes here
 include("normal_form_game.jl")
 
